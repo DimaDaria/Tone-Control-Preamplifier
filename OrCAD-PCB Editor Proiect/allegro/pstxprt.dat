@@ -1,0 +1,480 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Jan-13-2024 at 12:17:33 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='PROIECT1_PACT_DIMA_DARIA_ELENA';
+ POST_TIME='Jul 30 2017 03:29:02';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C_CAPC2008X126N_0805_100N':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54512@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54512@analog.\c.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54512@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'C_CAPAE660X770N_10U':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS55256@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins55256@analog.\c.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins55256@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'C_CAPAE660X770N_10U':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS55272@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins55272@analog.\c.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins55272@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'C_CAPC2008X126N_0805_4.7U':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54434@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54434@analog.\c.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54434@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'C_CAPC2008X126N_0805_4.7U':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54604@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54604@analog.\c.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54604@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'C_CAPC2008X126N_0805_4.7U':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54224@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54224@analog.\c.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54224@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'C_CAPC2008X126N_0805_4.7U':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54810@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54810@analog.\c.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54810@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'C_CAPC2008X126N_0805_4.7U':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54772@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54772@analog.\c.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54772@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'C_CAPC2008X126N_0805_33N':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54292@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54292@analog.\c.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54292@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'C_CAPC2008X126N_0805_33N':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54308@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54308@analog.\c.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54308@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'C_CAPC2008X126N_0805_2.2N':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54968@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54968@analog.\c.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54968@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'C_CAPC2008X126N_0805_2.2N':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS55036@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins55036@analog.\c.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins55036@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'C_CAPC2008X126N_0805_1U':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54864@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54864@analog.\c.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54864@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON2_1210RF_WV_12D_CON2':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54752@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54752@connector.\con2.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54752@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON2_1210RF_WV_12D_CON2':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54496@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54496@connector.\con2.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54496@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'CON1_TP80_CON1':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54694@CONNECTOR.CON1.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54694@connector.\con1.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54694@connector.\con1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'CON1_TP80_CON1':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54330@CONNECTOR.CON1.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54330@connector.\con1.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54330@connector.\con1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'CON1_TP80_CON1':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54650@CONNECTOR.CON1.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54650@connector.\con1.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54650@connector.\con1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'BC846B_SOT23_BC846B':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54548@EBIPOLAR.BC846B.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54548@ebipolar.\bc846b.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54548@ebipolar.\bc846b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'BC846B_SOT23_BC846B':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54880@EBIPOLAR.BC846B.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54880@ebipolar.\bc846b.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54880@ebipolar.\bc846b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 'BC846B_SOT23_BC846B':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54408@EBIPOLAR.BC846B.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54408@ebipolar.\bc846b.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54408@ebipolar.\bc846b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RES2012X50N_0805_1K':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54528@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54528@analog.\r.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54528@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_RES2012X50N_0805_8.2K':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54146@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54146@analog.\r.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54146@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'POT_TS53YL_100K':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54116@BREAKOUT.POT.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54116@breakout.\pot.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54116@breakout.\pot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_RES2012X50N_0805_10K':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54386@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54386@analog.\r.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54386@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_RES2012X50N_0805_22K':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54708@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54708@analog.\r.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54708@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'POT_TS53YL_100K':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS55006@BREAKOUT.POT.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins55006@breakout.\pot.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins55006@breakout.\pot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_RES2012X50N_0805_2.2K':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54984@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54984@analog.\r.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54984@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_RES2012X50N_0805_100K':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS55132@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins55132@analog.\r.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins55132@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_RES2012X50N_0805_100K':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS55308@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins55308@analog.\r.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins55308@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_RES2012X50N_0805_10K':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS55178@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins55178@analog.\r.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins55178@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_RES2012X50N_0805_10K':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS55328@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins55328@analog.\r.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins55328@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_RES2012X50N_0805_100K':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54240@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54240@analog.\r.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54240@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R_RES2012X50N_0805_100K':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54266@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54266@analog.\r.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54266@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'R_RES2012X50N_0805_4.7K':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54732@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54732@analog.\r.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54732@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'R_RES2012X50N_0805_330':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54788@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54788@analog.\r.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54788@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R_RES2012X50N_0805_2.7K':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54942@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54942@analog.\r.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54942@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'R_RES2012X50N_0805_5.6K':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS55086@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins55086@analog.\r.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins55086@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'R_RES2012X50N_0805_4.7K':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS55158@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins55158@analog.\r.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins55158@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R_RES2012X50N_0805_1.8K':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS55288@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins55288@analog.\r.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins55288@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_RES2012X50N_0805_15K':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54010@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54010@analog.\r.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54010@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_RES2012X50N_0805_15K':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS53990@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins53990@analog.\r.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins53990@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_RES2012X50N_0805_100K':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54624@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54624@analog.\r.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54624@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_RES2012X50N_0805_22K':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS55066@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins55066@analog.\r.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins55066@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_RES2012X50N_0805_100K':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS55236@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins55236@analog.\r.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins55236@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_RES2012X50N_0805_1000K':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54450@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54450@analog.\r.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54450@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_RES2012X50N_0805_8.2K':;
+
+SECTION_NUMBER 1
+ '@PROIECT1_PACT_DIMA_DARIA_ELENA.SCHEMATIC1(SCH_1):INS54094@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):ins54094@analog.\r.normal\(chips)',
+ P_PATH='@proiect1_pact_dima_daria_elena.schematic1(sch_1):page1_ins54094@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

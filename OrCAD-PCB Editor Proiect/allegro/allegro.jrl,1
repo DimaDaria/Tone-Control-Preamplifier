@@ -1,0 +1,105 @@
+\t (00:00:32) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:32)     Journal start - Sat Jan 20 22:06:29 2024
+\t (00:00:32)         Host=DESKTOP-3O54K7P User=daria Pid=15244 CPUs=4
+\t (00:00:32) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:32) 
+\d (00:00:32) Design opened: C:/Users/daria/OneDrive/Desktop/ETAPA 1 P1/Etapa 2 - OrCAD-PCB Editor/allegro/PROIECT1_PACT_DIMA_DARIA_ELENA.brd
+\i (00:00:32) generaledit 
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out 6510.14 977.89
+\i (00:00:33) trapsize 7422
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in -55.01 3094.20
+\i (00:00:33) trapsize 3711
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in -32.74 3086.78
+\i (00:00:34) trapsize 1856
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 794.86 3068.22
+\i (00:00:34) trapsize 3711
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 980.42 3038.54
+\i (00:00:34) trapsize 7422
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 3671.04 2945.75
+\i (00:00:34) trapsize 7422
+\i (00:00:35) zoom in 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in 1533.39 2218.35
+\i (00:00:35) trapsize 3711
+\i (00:00:35) zoom in 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in 1496.28 2218.36
+\i (00:00:35) trapsize 1856
+\i (00:00:35) zoom out 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out 1477.72 2203.51
+\i (00:00:35) trapsize 3711
+\i (00:00:36) zoom out 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out 1351.55 1513.23
+\i (00:00:36) trapsize 7422
+\i (00:00:36) zoom out 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out 1073.20 778.41
+\i (00:00:36) trapsize 7422
+\i (00:00:36) zoom out 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out 998.97 778.41
+\i (00:00:36) trapsize 7422
+\i (00:00:36) zoom in 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in 78.60 1372.20
+\i (00:00:36) trapsize 3711
+\i (00:00:46) drag_start grid -1405.88 4326.32
+\i (00:00:48) drag_stop 7879.55 -438.87
+\i (00:00:54) pick grid 4131.23 2804.72
+\t (00:00:54) last pick:  4130.00 2800.00
+\i (00:01:48) zoom in 1 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom in 828.26 -90.01
+\i (00:01:48) trapsize 1856
+\i (00:01:48) zoom in 1 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom in 809.70 -82.58
+\i (00:01:48) trapsize 928
+\i (00:01:48) zoom out 1 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom out 774.45 17.63
+\i (00:01:48) trapsize 1856
+\i (00:01:48) zoom out 1 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom out 755.89 43.60
+\i (00:01:48) trapsize 3711
+\i (00:01:49) zoom in 1 
+\i (00:01:49) setwindow pcb
+\i (00:01:49) zoom in 718.77 526.05
+\i (00:01:49) trapsize 1856
+\i (00:02:06) zoom out 1 
+\i (00:02:06) setwindow pcb
+\i (00:02:06) zoom out 4396.57 963.98
+\i (00:02:06) trapsize 3711
+\i (00:02:26) zoom out 1 
+\i (00:02:26) setwindow pcb
+\i (00:02:26) zoom out 7575.23 2648.86
+\i (00:02:26) trapsize 7422
+\i (00:02:26) zoom out 1 
+\i (00:02:26) setwindow pcb
+\i (00:02:26) zoom out 19436.22 5469.37
+\i (00:02:26) trapsize 7422
+\i (00:02:26) zoom in 1 
+\i (00:02:26) setwindow pcb
+\i (00:02:26) zoom in 6031.36 2485.56
+\i (00:02:26) trapsize 3711
+\i (00:02:27) zoom in 1 
+\i (00:02:27) setwindow pcb
+\i (00:02:27) zoom in 4037.43 2485.56
+\i (00:02:27) trapsize 1856
+\i (00:05:25) exit 
+\t (00:05:27)     Journal end - Sat Jan 20 22:11:24 2024
